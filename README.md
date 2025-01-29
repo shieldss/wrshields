@@ -26,7 +26,7 @@ Create a new property named 'API_KEY' and enter your api key in the 'Value' fiel
 
 ![Alt text](api_key.png?raw=true "Enter the API Key")
 
-Click 'Run'. You may get an error to begin with once the code runs but this is mainly to get you through the various permissions pages that initially appear when running a newly created script.
+Return to the code window and click 'Run'. You may get an error to begin with once the code runs but this is mainly to get you through the various permissions pages that initially appear when running a newly created script.
 
 Make sure all of your work is saved and return to your Google spreadsheet.
 
