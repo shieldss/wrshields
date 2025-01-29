@@ -44,7 +44,7 @@ Under 'Select event source' choose the time interval you wish for the report to 
 Your report will now automatically update on your desired schedule.
 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](api_key.png?raw=true "Enter the API Key")
 
 Where users can get help with your project
 Who maintains and contributes to the project
