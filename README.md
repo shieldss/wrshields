@@ -5,8 +5,10 @@ Use this code to import an Alma Analytics report into a Google Spreadsheet for e
 <h2>Why the project is useful</h2>
 
 <h2>Prerequisites</h2>
-A Google account to create a Google sheet.
-An Alma API key to access analytics reports through their REST API.  For more information, visit https://developers.exlibrisgroup.com/alma/apis/
+<ul>
+<li>A Google account to create a Google sheet.</li>
+<li>An Alma API key to access analytics reports through their REST API.  For more information, visit https://developers.exlibrisgroup.com/alma/apis/</li>
+</ul>
 
 <h2>Getting Started</h2>
 
