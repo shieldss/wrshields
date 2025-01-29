@@ -14,7 +14,7 @@ In Google Sheets, create a new file.
 
 Go to Extensions > Apps Script
 
-Copy and paste the code from '' to the code window and click 'Save'.
+Copy and paste the code from 'alma_report_to_gsheet' to the code window and click 'Save'.
 
 ![Alt text](code_screenshot.png?raw=true "Example of Code")
 
